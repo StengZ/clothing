@@ -1,0 +1,102 @@
+{
+  "CHECKPOINTS": [
+  ],
+  "UPSCALE_MODELS": [
+    "ai-forever/Real-ESRGAN/resolve/main/RealESRGAN_x2.pth"
+  ],
+  "TEXT_ENCODERS": [
+    "oldt5_xxl_fp8_e4m3fn_scaled.safetensors"
+  ],
+  "CLIP": [
+    "comfyanonymous/flux_text_encoders/resolve/main/clip_l.safetensors",
+    "Vvilams/t5xxl_fp16/resolve/main/t5xxl_fp16.safetensors",
+    "zer0int/CLIP-GmP-ViT-L-14/resolve/main/ViT-L-14-TEXT-detail-improved-hiT-GmP-TE-only-HF.safetensors",
+    "skunkworx/CLIP-GmP-ViT-L-14/resolve/main/text_encoder/model.safetensors"
+  ],
+  "CLIP_VISION": [
+    "funnewsr/sigclip_vision_patch14_384/resolve/main/sigclip_vision_patch14_384.safetensors"
+  ],
+  "LORAS": [
+    "alimama-creative/FLUX.1-Turbo-Alpha/resolve/main/diffusion_pytorch_model.safetensors",
+    "sTzing/t5xxl/resolve/main/flux_dev_nomi2.safetensors"
+  ],
+  "EMBEDDINGS": [
+  ],
+  "CONTROLNET": [
+  ],
+  "IPADAPTER": [
+  ],
+  "VAE": [
+    "black-forest-labs/FLUX.1-dev/resolve/main/ae.safetensors"
+  ],
+  "UNET": [
+    "black-forest-labs/FLUX.1-dev/resolve/main/flux1-dev.safetensors",
+    "xiaozaa/catvton-flux-lora-alpha/resolve/main/pytorch_lora_weights.safetensors"
+  ],
+  "DIFFUSION_MODELS": [
+    "black-forest-labs/FLUX.1-Fill-dev/resolve/main/flux1-fill-dev.safetensors"
+  ],
+  "PHOTOMAKER": [
+  ],
+  "INSTANTID": [
+  ],
+  "INSIGHTFACE": [
+  ],
+  "FACEDETECTION": [
+  ],
+  "FACERESTORE_MODELS": [
+  ],
+  "MMDETS": [
+  ],
+  "SAMS": [
+  ],
+  "GROUNDING-DINO": [
+    "groundingdino_swinb_cogcoor.pth",
+    "groundingdino_swint_ogc.pth"
+  ],
+  "BERT-BASE-UNCASED": [
+  ],
+  "ULTRALYTICS": [
+    "segm/person_yolov8m-seg.pt"
+  ],
+  "LAYER_MODEL": [
+  ],
+  "CLIPSEG": [
+  ],
+  "REMBG": [
+  ],
+  "PULID": [
+  ],
+  "GLIGEN": [
+  ],
+  "DYNAMICRAFTER": [
+  ],
+  "ANIMATEDIFF_MODELS": [
+  ],
+  "ANIMATEDIFF_MOTION_LORA": [
+  ],
+  "LIVEPORTRAIT": [
+  ],
+  "LLM": [
+  ],
+  "TENSORRT": [
+  ],
+  "DIFFUSERS": [
+  ],
+  "ULTRAPIXEL": [
+  ],
+  "INPAINT": [
+  ],
+  "STYLE_MODELS": [
+    "black-forest-labs/FLUX.1-Redux-dev/resolve/main/flux1-redux-dev.safetensors"
+  ],
+  "SAM2": [
+  ],
+  "RESWAPPER": [
+  ],
+  "NSFW_DETECTOR": [
+  ],
+  "YOLO": [
+    "Bingsu/adetailer/resolve/main/hand_yolov8n.pt"
+  ]
+}

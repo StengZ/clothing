@@ -57,7 +57,7 @@
   "BERT-BASE-UNCASED": [
   ],
   "ULTRALYTICS": [
-    "segm/person_yolov8m-seg.pt"
+    "Bingsu/adetailer/resolve/main/person_yolov8m-seg.pt"
   ],
   "LAYER_MODEL": [
   ],

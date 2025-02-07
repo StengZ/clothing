@@ -5,7 +5,6 @@
     "ai-forever/Real-ESRGAN/resolve/main/RealESRGAN_x2.pth"
   ],
   "TEXT_ENCODERS": [
-    "oldt5_xxl_fp8_e4m3fn_scaled.safetensors"
   ],
   "CLIP": [
     "comfyanonymous/flux_text_encoders/resolve/main/clip_l.safetensors",

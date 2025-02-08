@@ -1,10 +1,6 @@
 {
-  "CHECKPOINTS": [
-  ],
   "UPSCALE_MODELS": [
     "ai-forever/Real-ESRGAN/resolve/main/RealESRGAN_x2.pth"
-  ],
-  "TEXT_ENCODERS": [
   ],
   "CLIP": [
     "comfyanonymous/flux_text_encoders/resolve/main/clip_l.safetensors",
@@ -19,12 +15,6 @@
     "alimama-creative/FLUX.1-Turbo-Alpha/resolve/main/diffusion_pytorch_model.safetensors",
     "sTzing/t5xxl/resolve/main/flux_dev_nomi2.safetensors"
   ],
-  "EMBEDDINGS": [
-  ],
-  "CONTROLNET": [
-  ],
-  "IPADAPTER": [
-  ],
   "VAE": [
     "black-forest-labs/FLUX.1-dev/resolve/main/ae.safetensors"
   ],
@@ -35,65 +25,11 @@
   "DIFFUSION_MODELS": [
     "black-forest-labs/FLUX.1-Fill-dev/resolve/main/flux1-fill-dev.safetensors"
   ],
-  "PHOTOMAKER": [
-  ],
-  "INSTANTID": [
-  ],
-  "INSIGHTFACE": [
-  ],
-  "FACEDETECTION": [
-  ],
-  "FACERESTORE_MODELS": [
-  ],
-  "MMDETS": [
-  ],
-  "SAMS": [
-  ],
-  "GROUNDING-DINO": [
-    "groundingdino_swinb_cogcoor.pth",
-    "groundingdino_swint_ogc.pth"
-  ],
-  "BERT-BASE-UNCASED": [
-  ],
   "ULTRALYTICS": [
     "Bingsu/adetailer/resolve/main/person_yolov8m-seg.pt"
   ],
-  "LAYER_MODEL": [
-  ],
-  "CLIPSEG": [
-  ],
-  "REMBG": [
-  ],
-  "PULID": [
-  ],
-  "GLIGEN": [
-  ],
-  "DYNAMICRAFTER": [
-  ],
-  "ANIMATEDIFF_MODELS": [
-  ],
-  "ANIMATEDIFF_MOTION_LORA": [
-  ],
-  "LIVEPORTRAIT": [
-  ],
-  "LLM": [
-  ],
-  "TENSORRT": [
-  ],
-  "DIFFUSERS": [
-  ],
-  "ULTRAPIXEL": [
-  ],
-  "INPAINT": [
-  ],
   "STYLE_MODELS": [
     "black-forest-labs/FLUX.1-Redux-dev/resolve/main/flux1-redux-dev.safetensors"
-  ],
-  "SAM2": [
-  ],
-  "RESWAPPER": [
-  ],
-  "NSFW_DETECTOR": [
   ],
   "YOLO": [
     "Bingsu/adetailer/resolve/main/hand_yolov8n.pt"
